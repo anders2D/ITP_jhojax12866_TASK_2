@@ -182,7 +182,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #ff0000;
-		color: rgba(255, 255, 255, 0.85);
+		color: rgba(255, 0, 0, 0.85);
 		font-weight: 600;
 	}
 
