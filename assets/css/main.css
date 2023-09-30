@@ -205,7 +205,7 @@ input, select, textarea {
 
 			ul.icons li a {
 				opacity: 0.35;
-				color: #fff;
+				color: #ff0000;
 				-moz-transition: opacity 0.25s ease-in-out;
 				-webkit-transition: opacity 0.25s ease-in-out;
 				-ms-transition: opacity 0.25s ease-in-out;
